@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Duy Mạnh
 - 👀 I’m interested in "everything!" :v
 - 🌱 I’m currently learning Information Technology (IT)
-- 📫 How to reach me: via my FaceBook fb.com/manhdd.36 (Mạnh Đinh)
+- 📫 How to reach me: via my [Personal Site](www.manhdinh.dev)
 - Cheers! 
 
 
