@@ -4,6 +4,7 @@
 - 📫 How to reach me: via my [Personal Site](https://www.manhdinh.dev)
 - Cheers! 
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=duymanh3602)](https://www.manhdinh.dev)
 
 ![Manh's GitHub stats](https://github-readme-stats.vercel.app/api?username=duymanh3602&show_icons=true&theme=vue)
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duymanh3602)](https://github.com/anuraghazra/github-readme-stats)-->
